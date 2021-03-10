@@ -9,7 +9,7 @@ interface Config {
 const config:Config = {
     getConfig:() => {
         return {
-            port:3000
+            port:8080
         }
     }
 }
